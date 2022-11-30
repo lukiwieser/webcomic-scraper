@@ -1,4 +1,4 @@
-# Comic Scraper
+# Webcomic Scraper
 
 A small script for downloading webcomics from [SmackJeeves](smackjeeves.com).
 
