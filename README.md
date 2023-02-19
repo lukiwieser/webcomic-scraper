@@ -1,6 +1,6 @@
 # Webcomic Scraper
 
-A small script for downloading webcomics from [SmackJeeves](smackjeeves.com).
+A small script for downloading webcomics from [SmackJeeves](https://smackjeeves.com).
 
 This script was only tested on the comic "It's a Hard Life", but it might work on other comics from SmackJeeves.
 
