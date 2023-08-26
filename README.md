@@ -23,12 +23,11 @@ Next configure the comic to be downloaded, and the naming of the downloaded file
 - pageNumberEnd
 - downloadFolder
 - filenameMode
-- pagenumber
 - filenameLeadingZeroCount
 
 Also do not forget to create the folder, in which the downloaded files should be saved. Otherwise the script will throw an error.
 
-Finally simply execute the script in the command line:
+Finally execute the script in the command line:
 
 ```console
 node app.js
